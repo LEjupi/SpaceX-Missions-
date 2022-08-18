@@ -1,0 +1,18 @@
+.Launch {
+    border: 2px solid rgba(72, 59, 190, 0.63);
+    padding: 30px;
+    margin: 15px;
+}
+
+.Launch h6 {
+    margin-bottom: 20px;
+}
+
+.Launch p {
+    margin: 0;
+}
+
+.Launch__ships {
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,4 @@
+.Missions {
+    display: flex;
+    flex-wrap: wrap;
+}

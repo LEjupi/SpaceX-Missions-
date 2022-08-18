@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@apollo/client": "^3.6.9",
+    "@emotion/react": "^11.10.0",
+    "@emotion/styled": "^11.10.0",
+    "@mui/material": "^5.10.1",
+    "graphql": "^16.6.0",
+    "graphql-tag": "^2.12.6",
+    "mdb-react-ui-kit": "^4.1.0"
+  }
+}
